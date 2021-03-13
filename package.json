@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-transaction-identifier",
+  "version": "1.0.0",
+  "description": "Capture largest unconfirmed blockchain transactions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmark88/blockchain-transaction-identifier.git"
+  },
+  "author": "Bradley Mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmark88/blockchain-transaction-identifier/issues"
+  },
+  "homepage": "https://github.com/bmark88/blockchain-transaction-identifier#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
